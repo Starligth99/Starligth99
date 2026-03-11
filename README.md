@@ -11,7 +11,7 @@ Apasionado por crear experiencias digitales interactivas y eficientes.
 <img src="banner.png">
 </p>
 
-<h1 align="center"> Bienveido a mi CV Digital</h1>
+<h1 align="center"> Bienvenido a mi CV Digital</h1>
 <p align="center">
 <img src="B1EEEC5F-C824-490E-9C7E-B83F13F1ACE6.jpg" width="250">
 </p>
@@ -47,7 +47,7 @@ También tengo experiencia en edición de contenido multimedia como **imagen, vi
 - ⏱️ Puntualidad en entregas y compromisos  
 - 🤝 Excelente trabajo en equipo  
 - 🎨 Creatividad en el desarrollo de proyectos  
-
+- 🎓 Nivel de inglés B2
 ---
 
 ## 🚀 Proyectos Destacados
