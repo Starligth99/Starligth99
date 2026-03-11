@@ -10,6 +10,12 @@ Apasionado por crear experiencias digitales interactivas y eficientes.
 <p align="center">
 <img src="banner.png">
 </p>
+
+<h1 align="center"> Bienveido a mi CV Digital</h1>
+<p align="center">
+<img src="B1EEEC5F-C824-490E-9C7E-B83F13F1ACE6.jpg" width="250">
+</p>
+
 ## 🚀 Sobre mí
 
 Soy programador especializado en desarrollo de páginas web y en la creación de experiencias interactivas usando **Realidad Virtual (VR)** y **Realidad Aumentada (AR)**.
