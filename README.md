@@ -1,0 +1,68 @@
+<h1 align="center">👋 Hola, soy Miguel Angel Romero Alcantara</h1>
+<h3 align="center">💻 Programador Web | 🕶️ VR & AR Developer | 🎨 Editor Multimedia</h3>
+
+<p align="center">
+Apasionado por crear experiencias digitales interactivas y eficientes.
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+Soy programador especializado en desarrollo de páginas web y en la creación de experiencias interactivas usando **Realidad Virtual (VR)** y **Realidad Aumentada (AR)**.
+
+Me enfoco en crear aplicaciones eficientes, intuitivas y con experiencias agradables para los usuarios.
+
+También tengo experiencia en edición de contenido multimedia como **imagen, video y audio**.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,git,github,unity,blender" />
+</p>
+
+---
+
+## 💪 Fortalezas
+
+- ⏱️ Puntualidad en entregas y compromisos  
+- 🤝 Excelente trabajo en equipo  
+- 🎨 Creatividad en el desarrollo de proyectos  
+
+---
+
+## 📚 Certificaciones
+
+- 📜 Certificación en Bootstrap  
+- 📜 Desarrollo Web  
+- 📜 Tecnologías digitales  
+
+📂 **Próximamente subiré mis certificados aquí.**
+
+---
+
+## 🚀 Proyectos Destacados
+
+🔹 **Proyecto VR educativo**  
+Experiencia en realidad virtual enfocada en aprendizaje interactivo.
+
+🔹 **Sistema E-commerce ALUMA**  
+Aplicación para gestión y venta de productos artesanales.
+
+🔹 **Editor multimedia**  
+Proyectos de edición de imagen, video y audio.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=starligth99&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+📧 Email: tuemail@email.com  
+🐙 GitHub: https://github.com/starligth99
