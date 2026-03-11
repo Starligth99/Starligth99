@@ -33,16 +33,6 @@ También tengo experiencia en edición de contenido multimedia como **imagen, vi
 
 ---
 
-## 📚 Certificaciones
-
-- 📜 Certificación en Bootstrap  
-- 📜 Desarrollo Web  
-- 📜 Tecnologías digitales  
-
-📂 **Próximamente subiré mis certificados aquí.**
-
----
-
 ## 🚀 Proyectos Destacados
 
 🔹 **Proyecto VR educativo**  
@@ -54,15 +44,9 @@ Aplicación para gestión y venta de productos artesanales.
 🔹 **Editor multimedia**  
 Proyectos de edición de imagen, video y audio.
 
----
-
-## 📊 Estadísticas de GitHub
-
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=starligth99&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Contacto
 
-📧 Email: tuemail@email.com  
+📧 Email: miguelromeroalcantara@gmail.com  
 🐙 GitHub: https://github.com/starligth99
+🎞️ Instagram: @Starligth_r.t_99
