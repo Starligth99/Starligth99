@@ -42,6 +42,11 @@ También tengo experiencia en edición de contenido multimedia como **imagen, vi
 
 ---
 
+## 🌟 Objetivo Profesional
+
+Desarrollarme como programador en el área de desarrollo web y realidad virtual, creando experiencias innovadoras que aporten valor a los usuarios.
+---
+
 ## 💪 Fortalezas
 
 - ⏱️ Puntualidad en entregas y compromisos  
@@ -52,19 +57,59 @@ También tengo experiencia en edición de contenido multimedia como **imagen, vi
 
 ## 🚀 Proyectos Destacados
 
-🔹 **Proyecto VR educativo**  
-Experiencia en realidad virtual enfocada en aprendizaje interactivo.
+## 🚀 Proyectos Destacados
 
-🔹 **Sistema E-commerce ALUMA**  
-Aplicación para gestión y venta de productos artesanales.
+🔹 **Proyecto VR educativo**
+Aplicación en Unity donde el usuario interactúa con objetos (plantas) en realidad virtual, incluyendo físicas, audio y controles VR.
 
-🔹 **Editor multimedia**  
-Proyectos de edición de imagen, video y audio.
+🔹 **Sistema E-commerce ALUMA**
+Sistema desarrollado con base de datos para gestión de productos, pedidos y clientes.
 
+🔹 **Editor multimedia**
+Edición de contenido audiovisual utilizando herramientas profesionales como Photoshop y Premiere Pro.
+
+---
+
+---
+
+## 📜 Certificaciones
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="cert1.jpg" width="200"><br>
+<b>Curso: SanaMente LibreMente</b><br>
+Febrero, 2026<br>
+<a href="#">Ver certificado</a>
+</td>
+
+<td align="center">
+<img src="cert2.jpg" width="200"><br>
+<b>Primera Jornada Cultura de Paz</b><br>
+Noviembre, 2025<br>
+<a href="#">Ver certificado</a>
+</td>
+
+<td align="center">
+<img src="cert3.jpg" width="200"><br>
+<b>Reconocimiento Académico</b><br>
+Octubre, 2025<br>
+<a href="#">Ver certificado</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+----
 
 ## 📫 Contacto
 
-📧 Email: miguelromeroalcantara@gmail.com  
-🐙 GitHub: https://github.com/starligth99
-🎞️ Instagram: @Starligth_r.t_99
-📱 2471277730
+📧 miguelromeroalcantara@gmail.com  
+🐙 GitHub: https://github.com/starligth99  
+📱 2471277730  
+📸 Instagram: @Starligth_r.t_99  
