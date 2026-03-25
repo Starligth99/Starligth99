@@ -80,10 +80,10 @@ Edición de contenido audiovisual utilizando herramientas profesionales como Pho
 <tr>
 
 <td align="center">
-<img src="cert1.jpg" width="200"><br>
-<b>Curso: SanaMente LibreMente</b><br>
-Febrero, 2026<br>
-<a href="#">Ver certificado</a>
+<img src="1.pdf" width="200"><br>
+<b>Hackaton 2025</b><br>
+Diciembre, 2025<br>
+<a href="1.pdf">Ver certificado</a>
 </td>
 
 <td align="center">
