@@ -13,7 +13,7 @@ Apasionado por crear experiencias digitales interactivas y eficientes.
 
 <h1 align="center"> Bienvenido a mi CV Digital</h1>
 <p align="center">
-<img src="B1EEEC5F-C824-490E-9C7E-B83F13F1ACE6.jpg" width="250">
+<img src="GithubCV.jpeg" width="250">
 </p>
 
 ## 🚀 Sobre mí
@@ -80,24 +80,38 @@ Edición de contenido audiovisual utilizando herramientas profesionales como Pho
 <tr>
 
 <td align="center">
-<img src="1.pdf" width="200"><br>
+<img src="1.png" width="200"><br>
 <b>Hackaton 2025</b><br>
 Diciembre, 2025<br>
 <a href="1.pdf">Ver certificado</a>
 </td>
 
 <td align="center">
-<img src="cert2.jpg" width="200"><br>
+<img src="2.png" width="200"><br>
 <b>Primera Jornada Cultura de Paz</b><br>
 Noviembre, 2025<br>
-<a href="#">Ver certificado</a>
+<a href="2.pdf">Ver certificado</a>
 </td>
 
 <td align="center">
-<img src="cert3.jpg" width="200"><br>
-<b>Reconocimiento Académico</b><br>
+<img src="3.png" width="200"><br>
+<b>Inglés Diploma</b><br>
+Julio, 2024<br>
+<a href="3.pdf">Ver certificado</a>
+</td>
+
+<td align="center">
+<img src="4.png" width="200"><br>
+<b>Animación Digital 3D avanzada</b><br>
 Octubre, 2025<br>
-<a href="#">Ver certificado</a>
+<a href="4.pdf">Ver certificado</a>
+</td>
+
+<td align="center">
+<img src="5.png" width="200"><br>
+<b>Secretaría de Movilidad y Transporte</b><br>
+Marzo, 2026<br>
+<a href="5.pdf">Ver certificado</a>
 </td>
 
 </tr>
