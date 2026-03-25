@@ -38,6 +38,11 @@ También tengo experiencia en edición de contenido multimedia como **imagen, vi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Adobe_Audition_CC_icon.svg" width="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Krita_Logo.svg" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Adobe_Audition_CC_icon.svg" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/XAMPP_Logo.png" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+
 </p>
 
 ---
