@@ -59,8 +59,6 @@ Desarrollarme como programador en el área de desarrollo web y realidad virtual,
 
 ## 🚀 Proyectos Destacados
 
-## 🚀 Proyectos Destacados
-
 🔹 **Proyecto VR educativo**
 Aplicación en Unity donde el usuario interactúa con objetos (plantas) en realidad virtual, incluyendo físicas, audio y controles VR.
 
