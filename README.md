@@ -127,3 +127,11 @@ Marzo, 2026<br>
 🐙 GitHub: https://github.com/starligth99  
 📱 2471277730  
 📸 Instagram: @Starligth_r.t_99  
+
+## 📄 Descargar CV
+
+<p align="center">
+<a href="Modern Professional CV Resume.pdf" download>
+<img src="https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
+</p>
